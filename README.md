@@ -87,7 +87,7 @@ const rafael = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square&logoColor=white)
 
 **Databases**
 
@@ -105,8 +105,8 @@ const rafael = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
-![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat-square&logo=mailgun&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white)
+![Mailgun](https://img.shields.io/badge/Mailgun-F06B66?style=flat-square&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Architecture & Principles**
@@ -119,34 +119,72 @@ const rafael = {
 
 ---
 
-### `// certifications & courses`
+### `// featured projects`
 
-<details>
-<summary>📚 View all courses</summary>
-<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💬 WhatsApp Clone</h3>
+      <p>Real-time messaging app with WebSockets and multi-room support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <a href="https://github.com/Rafaelh5z/whatsapp-react-next-node">→ View repo</a>
+    </td>
+    <td width="50%">
+      <h3>🔷 TypeScript Design Patterns</h3>
+      <p>Creational, structural & behavioral patterns with real-world examples.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/Rafaelh5z/typescript-design-patterns">→ View repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Laravel + React Starter</h3>
+      <p>Production-ready fullstack boilerplate with auth, API structure and deploy config.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+      <a href="https://github.com/Rafaelh5z/larave-react-starter">→ View repo</a>
+    </td>
+    <td width="50%">
+      <h3>📸 Instagram Clone</h3>
+      <p>Social network with auth, feed, follows and image uploads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Inertia-9553E9?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/Rafaelh5z/anstagram">→ View repo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### `// certifications & courses`
 
 | Course | Topic |
 |--------|-------|
-| REST API with Laravel, Hexagonal Architecture & JWT | Backend · Architecture |
-| Software Architecture: From Developer to Architect | Architecture |
-| Software Architecture: Domain-Driven Design | DDD |
-| TypeScript Design Patterns | Patterns |
-| MERN Stack E-Commerce Mobile App with React Native | Mobile · Fullstack |
-| Node.js Backend: Authentication with Passport.js & JWT | Backend · Auth |
-| .Net Core REST API + VueJs SPA | Backend |
-| Asynchronous JavaScript | Frontend |
-| Data Management in PHP | Backend |
-
-</details>
+| 🏗️ REST API with Laravel, Hexagonal Architecture & JWT | Backend · Architecture |
+| 🧠 Software Architecture: From Developer to Architect | Architecture |
+| 🌐 Software Architecture: Domain-Driven Design | DDD |
+| 🔷 TypeScript Design Patterns | Patterns |
+| 📱 MERN Stack E-Commerce Mobile App with React Native | Mobile · Fullstack |
+| 🔐 Node.js Backend: Authentication with Passport.js & JWT | Backend · Auth |
+| ⚡ Asynchronous JavaScript | Frontend |
+| 🗄️ Data Management in PHP | Backend |
+| 🖥️ .Net Core REST API + VueJs SPA | Backend |
 
 ---
 
 ### `// stats`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafaelh5z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelh5z&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
 <div align="center">
   <img width="65%" src="https://streak-stats.demolab.com?user=Rafaelh5z&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -157,5 +195,11 @@ const rafael = {
 </div>
 
 ---
+
+<div align="center">
+  <i>"Good code is its own best documentation."</i>
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer" />
