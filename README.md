@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/rafael-herrera-sanchez)
-[![Email](https://img.shields.io/badge/EMAIL-%23ff006e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:rafael_h5z@hotmail.es)
-[![Open to Remote](https://img.shields.io/badge/🟢_OPEN_TO_REMOTE-00ff9f?style=for-the-badge&logoColor=black&labelColor=0a0a0f&color=00ff9f)](https://github.com/Rafaelh5z)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-herrera-sanchez)
+[![Email](https://img.shields.io/badge/EMAIL-ff006e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael_h5z@hotmail.es)
+[![Open to Remote](https://img.shields.io/badge/🟢_OPEN_TO_REMOTE-0a0a0f?style=for-the-badge&logoColor=00ff9f&color=0a0a0f&labelColor=0a0a0f)](https://github.com/Rafaelh5z)
 
 </div>
 
@@ -31,38 +31,6 @@ const rafael = {
   status:       "🟢 Open to remote opportunities",
 };
 ```
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                     > EXPERIENCE LOG                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<table>
-  <tr>
-    <td nowrap><code>2022 – 2026</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/NEOTEK_TECHNOLOGIES-ff006e?style=flat-square&logoColor=white" />
-      <br/><sub>Led team of 5 · SFU video conferencing at scale · Mass email delivery to 100K+ users · AI assistants via OpenAI API · Real-time dashboards over hundreds of thousands of records</sub>
-    </td>
-  </tr>
-  <tr>
-    <td nowrap><code>2022 – 2024</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/FREELANCE-00ff9f?style=flat-square&logoColor=black" />
-      <br/><sub>React Native app for precision crop management · Personal finance app with budget planning, gamified savings, RevenueCat subscriptions and Mailgun integration</sub>
-    </td>
-  </tr>
-  <tr>
-    <td nowrap><code>2018 – 2022</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/FRAMELOVA-ffdd00?style=flat-square&logoColor=black" />
-      <br/><sub>SCORM e-learning for BBVA & Volkswagen · React Native IoT and e-commerce apps on Google Play · Biometric fingerprint access control system · Dashboards for HR, sales & vendor management</sub>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -113,11 +81,11 @@ const rafael = {
 
 **`[ ARCHITECTURE ]`**
 
-![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-00ff9f?style=flat-square&logoColor=black)
-![Hexagonal](https://img.shields.io/badge/HEXAGONAL-00ff9f?style=flat-square&logoColor=black)
-![DDD](https://img.shields.io/badge/DDD-00ff9f?style=flat-square&logoColor=black)
-![SOLID](https://img.shields.io/badge/SOLID-00ff9f?style=flat-square&logoColor=black)
-![Design Patterns](https://img.shields.io/badge/DESIGN_PATTERNS-00ff9f?style=flat-square&logoColor=black)
+![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-0a0a0f?style=flat-square&logoColor=00ff9f&labelColor=0a0a0f&color=0a0a0f)
+![Hexagonal](https://img.shields.io/badge/HEXAGONAL-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
+![DDD](https://img.shields.io/badge/DDD-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
+![SOLID](https://img.shields.io/badge/SOLID-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
+![Design Patterns](https://img.shields.io/badge/DESIGN_PATTERNS-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
 
 <br/>
 
