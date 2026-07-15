@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-herrera-sanchez)
 [![Email](https://img.shields.io/badge/EMAIL-ff006e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael_h5z@hotmail.es)
-[![Open to Remote](https://img.shields.io/badge/🟢_OPEN_TO_REMOTE-0a0a0f?style=for-the-badge&logoColor=00ff9f&color=0a0a0f&labelColor=0a0a0f)](https://github.com/Rafaelh5z)
+[![Open to Remote](https://img.shields.io/badge/🟢_OPEN_TO_REMOTE-0a0a0f?style=for-the-badge&color=0a0a0f&labelColor=0a0a0f)](https://github.com/Rafaelh5z)
 
 </div>
 
@@ -17,19 +17,15 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                        > WHOAMI                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  role         │  Senior Fullstack Developer                  ║
+║  experience   │  8+ years                                    ║
+║  location     │  Puebla, Mexico 🇲🇽 — available worldwide    ║
+║  focus        │  Laravel · React · React Native · Node.js    ║
+║  architecture │  Clean · Hexagonal · DDD · SOLID             ║
+║  languages    │  Spanish (native) · English (advanced)       ║
+║  status       │  🟢 Open to remote opportunities             ║
 ╚══════════════════════════════════════════════════════════════╝
-```
-
-```ts
-const rafael = {
-  role:         "Senior Fullstack Developer",
-  experience:   "8+ years",
-  location:     "Puebla, Mexico 🇲🇽  —  available worldwide",
-  focus:        ["Laravel / PHP", "React / React Native", "Node.js", "AWS"],
-  architecture: ["Clean Architecture", "Hexagonal", "DDD", "SOLID"],
-  languages:    ["Spanish (native)", "English (advanced)"],
-  status:       "🟢 Open to remote opportunities",
-};
 ```
 
 <br/>
@@ -81,7 +77,7 @@ const rafael = {
 
 **`[ ARCHITECTURE ]`**
 
-![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-0a0a0f?style=flat-square&logoColor=white&labelColor=0a0a0f&color=0a0a0f)
+![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
 ![Hexagonal](https://img.shields.io/badge/HEXAGONAL-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
 ![DDD](https://img.shields.io/badge/DDD-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
 ![SOLID](https://img.shields.io/badge/SOLID-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
