@@ -81,7 +81,7 @@ const rafael = {
 
 **`[ ARCHITECTURE ]`**
 
-![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-0a0a0f?style=flat-square&logoColor=00ff9f&labelColor=0a0a0f&color=0a0a0f)
+![Clean Architecture](https://img.shields.io/badge/CLEAN_ARCHITECTURE-0a0a0f?style=flat-square&logoColor=white&labelColor=0a0a0f&color=0a0a0f)
 ![Hexagonal](https://img.shields.io/badge/HEXAGONAL-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
 ![DDD](https://img.shields.io/badge/DDD-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
 ![SOLID](https://img.shields.io/badge/SOLID-0a0a0f?style=flat-square&labelColor=0a0a0f&color=0a0a0f)
@@ -98,18 +98,42 @@ const rafael = {
 <table>
   <tr>
     <td width="50%">
-      <h3>💬 WHATSAPP CLONE</h3>
-      <sub>Real-time messaging app with WebSockets and multi-room support.</sub>
+      <h3>🛒 E-Commerce — Hexagonal Architecture</h3>
+      <sub>E-commerce PWA with Hexagonal Architecture, DDD, SOLID, GraphQL and custom Dependency Injection container.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/GRAPHQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/Rafaelh5z/ecommerce-hexagonal-react"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
+    </td>
+    <td width="50%">
+      <h3>💬 Real-Time Chat App</h3>
+      <sub>Full-stack real-time messaging platform with multi-room support and WebSockets.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/NEXT.JS-fff?style=flat-square&logo=nextdotjs&logoColor=black" />
       <img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/Rafaelh5z/whatsapp-react-next-node"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
+      <a href="https://github.com/Rafaelh5z/realtime-chat-app"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛒 POS Lite — Point of Sale</h3>
+      <sub>Complete point of sale system built entirely with Laravel + Livewire — reactive UI without a single line of JavaScript.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/LIVEWIRE-FB70A9?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/Rafaelh5z/pos-lite"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
     </td>
     <td width="50%">
-      <h3>🔷 TS DESIGN PATTERNS</h3>
-      <sub>Creational, structural & behavioral patterns with real-world examples.</sub>
+      <h3>🔷 TypeScript Design Patterns</h3>
+      <sub>Practical reference guide for Creational, Structural and Behavioral patterns with real-world TypeScript examples.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <br/><br/>
@@ -118,24 +142,24 @@ const rafael = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚡ LARAVEL + REACT STARTER</h3>
-      <sub>Production-ready fullstack boilerplate with auth, API and deploy config.</sub>
+      <h3>💸 Personal Finance Tracker</h3>
+      <sub>Personal finance web app to track income, expenses and savings with real-time data sync.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
       <br/><br/>
-      <a href="https://github.com/Rafaelh5z/larave-react-starter"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
+      <a href="https://github.com/Rafaelh5z/personal-finance-tracker"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
     </td>
     <td width="50%">
-      <h3>📸 INSTAGRAM CLONE</h3>
-      <sub>Social network with auth, feed, follows and image uploads.</sub>
+      <h3>📸 Instagram Clone — Laravel</h3>
+      <sub>Full-featured social network with auth, feed, follows and image uploads using Laravel + Inertia.js + Vue.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/INERTIA-9553E9?style=flat-square&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/Rafaelh5z/anstagram"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
+      <a href="https://github.com/Rafaelh5z/instagram-clone-laravel"><img src="https://img.shields.io/badge/►_VIEW_REPO-ff006e?style=flat-square&logoColor=white" /></a>
     </td>
   </tr>
 </table>
